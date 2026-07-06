@@ -24,7 +24,7 @@ include __DIR__ . '/templates/header.php';
                 <p>And then there's the price. Every tier is a year that means something: <strong>$17.76</strong> (1776), <strong>$19.76</strong> (1976), and <strong>$20.26</strong> (2026). Quality coffee shouldn't require a premium-pricing decoder ring.</p>
             </div>
             <div class="story-image">
-                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/lily-photo.jpg" alt="Lily the Jack Russell Terrier with coffee bags">
+                <img src="/img/lily-story-roastery.webp" alt="Lily the Jack Russell Terrier with coffee bags">
             </div>
         </div>
     </section>

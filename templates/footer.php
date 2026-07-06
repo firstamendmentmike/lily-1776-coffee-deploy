@@ -2,7 +2,7 @@
     <footer class="site-footer">
         <div class="footer-inner">
             <div class="footer-brand">
-                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/dmWneGzDIdzWHYVh.png" alt="Lily 1776" class="footer-seal">
+                <img src="/img/wax-seal.png" alt="Lily 1776" class="footer-seal">
                 <span class="footer-logo-text">Lily 1776</span>
                 <p>American-made specialty coffee. Roasted with intent, lab-tested for purity, and priced by the year — 1776, 1976, 2026.</p>
                 <p class="footer-usa">Proudly Made in the USA</p>

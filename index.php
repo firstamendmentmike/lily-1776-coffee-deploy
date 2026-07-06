@@ -16,7 +16,7 @@ include __DIR__ . '/templates/header.php';
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-bg">
-            <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/hero-flag-bg.jpg" alt="" class="hero-bg-img">
+            <img src="/img/hero-flag-bg.jpg" alt="" class="hero-bg-img">
         </div>
         <div class="hero-content">
             <div class="hero-text">
@@ -30,7 +30,7 @@ include __DIR__ . '/templates/header.php';
                 </div>
             </div>
             <div class="hero-seal">
-                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/dmWneGzDIdzWHYVh.png" alt="Lily 1776 Wax Seal" class="seal-img">
+                <img src="/img/wax-seal.png" alt="Lily 1776 Wax Seal" class="seal-img">
             </div>
         </div>
     </section>
@@ -96,7 +96,7 @@ include __DIR__ . '/templates/header.php';
                 <p>She doesn't care about profit margins or market positioning. She cares about walks, treats, and making sure every bag of coffee that leaves this house is worth a damn.</p>
             </div>
             <div class="lily-photo">
-                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/lily-photo.jpg" alt="Lily the Jack Russell Terrier">
+                <img src="/img/lily-photo.webp" alt="Lily the Jack Russell Terrier">
             </div>
         </div>
     </section>

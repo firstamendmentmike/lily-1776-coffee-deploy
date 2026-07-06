@@ -29,7 +29,7 @@
     <header class="site-header" id="siteHeader">
         <div class="header-inner">
             <a href="/" class="logo">
-                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663484888774/dmWneGzDIdzWHYVh.png" alt="Lily 1776 Seal" class="logo-seal">
+                <img src="/img/wax-seal.png" alt="Lily 1776 Seal" class="logo-seal">
                 <span class="logo-text">Lily 1776<small>Coffee Co.</small></span>
             </a>
 

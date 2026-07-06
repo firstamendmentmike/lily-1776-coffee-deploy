@@ -47,3 +47,11 @@ define('SITE_NAME', 'Lily 1776 Coffee');
 define('SHIPPING_FIRST_ITEM', 450);   // $4.50 in cents
 define('SHIPPING_ADDITIONAL', 150);    // $1.50 in cents
 define('FREE_SHIPPING_THRESHOLD', 5000); // $50.00 in cents
+
+// Product cache TTL (seconds)
+define('PRODUCT_CACHE_TTL', 3600);
+
+// Pricing tiers — each price is a historically meaningful year
+define('PRICE_TIER_1776', 1776);
+define('PRICE_TIER_1976', 1976);
+define('PRICE_TIER_2026', 2026);
