@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/firsta33/lily1776coffee.com/
+    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
